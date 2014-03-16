@@ -1,0 +1,9 @@
+name: MCD
+main: MCD.MCD
+version: 1.0
+commands:
+   basic:
+      description: This is a Join command
+      usage: /mcd join
+      permission: MCD.basic
+      permission-message: You don't have <permission>
